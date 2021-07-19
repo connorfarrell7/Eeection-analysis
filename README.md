@@ -32,7 +32,7 @@ Using the algorithm that i made, i was able to determine the following:
 
 -	The Winner of the election, Diana Degette, had a whopping 272,892 voters, giving her 73.8% of the total votes cast. (fig 5)
 
--	![figure 5](https://user-images.githubusercontent.com/86024575/126097004-467b6404-cf61-4370-9144-427203ac9187.png)
+![figure 5](https://user-images.githubusercontent.com/86024575/126097004-467b6404-cf61-4370-9144-427203ac9187.png)
 *figure 5*
 
 #### Election Audit Summary
